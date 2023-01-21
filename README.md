@@ -1,6 +1,9 @@
 # basketball_counter
 
-A new Flutter project.
+A new Flutter project implement lessons of @github/tharwatsamy .
+
+<img src="https://user-images.githubusercontent.com/27792204/213875717-51193892-08a1-4a6d-b79a-be18dd0a1960.png" width=50% height=50%>
+
 
 ## Getting Started
 
