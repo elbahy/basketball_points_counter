@@ -23,8 +23,10 @@ class _BasketballCounterState extends State<BasketballCounter> {
         setState(() {
           if (team == 'A') {
             teamAScore += pointNum;
+            if (teamAScore > 99) teamAScore = 99;
           } else {
             teamBScore += pointNum;
+            if (teamBScore > 99) teamBScore = 99;
           }
         });
       },
