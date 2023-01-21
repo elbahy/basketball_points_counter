@@ -1,6 +1,6 @@
 # basketball_counter
 
-A new Flutter project implement lessons of @github/elbahy .
+A new Flutter project implement lessons of @elbahy .
 
 ![Screenshot_1674316905](https://user-images.githubusercontent.com/27792204/213875717-51193892-08a1-4a6d-b79a-be18dd0a1960.png)
 
