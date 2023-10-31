@@ -2,7 +2,7 @@ import 'package:basketball_counter/cubit/counter_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class CubitCounter extends Cubit<CounterState> {
-  CubitCounter() : super(CounterAIncrementState());
+  CubitCounter() : super(CounterInitState());
 
   int teamACount = 0;
   int teamBCount = 0;
